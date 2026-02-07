@@ -81,29 +81,22 @@ Place these 3 CSV files in the same directory as the notebook:
 ## 📊 Visualizations Created
 
 The notebook creates 11+ charts:
-
-1. **01_customer_status_distribution.png** - Target variable
-2. **02_numeric_distributions.png** - Age, Tenure, Charges, Revenue
-3. **03_categorical_distributions.png** - Contract, Internet, Payment, Gender
-4. **04_correlation_heatmap.png** - Feature correlations
-5. **05_status_vs_contract.png** - Relationship analysis
-6. **06_status_vs_internet.png** - Relationship analysis
-7. **07_status_vs_tenure.png** - Relationship analysis
-8. **08_boxplots_status_features.png** - Distribution comparison
-9. **09_model_comparison.png** - ML model performance
-10. **10_confusion_matrix.png** - Best model predictions
-11. **11_feature_importance.png** - Most important features
+📁 Visualization Images:
+├── **01_customer_status_distribution.png** - Target variable
+├──  **02_numeric_distributions.png** - Age, Tenure, Charges, Revenue
+├──  **03_categorical_distributions.png** - Contract, Internet, Payment, Gender
+├──  **04_correlation_heatmap.png** - Feature correlations
+├──  **10_confusion_matrix.png** - Best model predictions
+└── **11_feature_importance.png** - Most important features
 
 ## 📁 Files Generated
 
 After running the notebook:
 
 ```
-📁 Output Files:
+📁 Output CSV Files:
 ├── telecom_cleaned_merged.csv          # Clean, merged dataset
-├── model_comparison_results.csv         # Model performance metrics
-├── feature_importance.csv               # Feature rankings
-└── 11+ PNG visualization files
+└── telecom_customer_churn_Cleaned.csv  # Clean
 ```
 
 ## 🎯 Target Variable: Customer Status
