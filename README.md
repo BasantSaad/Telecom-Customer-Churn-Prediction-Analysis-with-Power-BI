@@ -1,5 +1,5 @@
 # Complete ML Analysis Notebook Guide
-
+![Alt Text](Visualization%20Images/Screenshot%202026-02-07%20052449.png)
 ## 📓 Notebook: Telecom_Complete_Analysis_ML.ipynb
 
 This is your **all-in-one** notebook that handles everything from data cleaning to machine learning predictions for Customer Status.
